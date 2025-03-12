@@ -1,0 +1,14 @@
+Analysis
+
+-requirements
+-how he gets info
+-plan
+
+Design
+
+=UI design
+=process design
+-activities 
+=DB design
+=
+
